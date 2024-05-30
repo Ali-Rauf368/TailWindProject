@@ -1,5 +1,5 @@
 # TailWindProject
-- My project is basically based on the Tailwind CSS.
+- My project is basically based on the Tailwind CSS and is a Dummy German Airway website.
 - Project has six parts and each part is representing different functionality of the  Tailwind CSS.
 - First part is a header and header contains two section. One section is just contained the logo and the second section contain the navigationbar. In navigationbar, there are different options and each option has a sub menu which also show the further information about different pages.
 - Second part is about the video part and in which we are showing the specific video which we copied from the official page of German Airway and for this I am using the iframe tag.
